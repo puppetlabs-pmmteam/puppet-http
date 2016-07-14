@@ -7,6 +7,7 @@
   "source": "git://github.com/puppetlabs-pmmteam/puppet-http",
   "project_page": "https://github.com/puppetlabs-pmmteam/puppet-http",
   "issues_url": "https://tickets.puppetlabs.com/browse/MODULES",
+  "dependencies": [],
   "operatingsystem_support": [
     {
       "operatingsystem": "RedHat",
